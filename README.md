@@ -1,0 +1,1 @@
+This repo contains a simple webpage built with example HTML, CSS, and JS files from a tutorial.
